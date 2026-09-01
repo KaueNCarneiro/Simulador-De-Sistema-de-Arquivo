@@ -1,0 +1,3 @@
+"""
+Representa um diretório
+"""
