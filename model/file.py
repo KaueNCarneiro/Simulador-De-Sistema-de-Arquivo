@@ -1,0 +1,3 @@
+"""
+representa um arquivo
+"""
